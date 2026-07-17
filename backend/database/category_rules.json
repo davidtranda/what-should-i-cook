@@ -1,0 +1,70 @@
+{
+    "vegetables": [
+        "tomato",
+        "potato",
+        "onion",
+        "garlic",
+        "pepper",
+        "broccoli",
+        "lettuce",
+        "spinach",
+        "carrot",
+        "cucumber",
+        "aubergine",
+        "asparagus"
+    ],
+
+    "fruit": [
+        "apple",
+        "banana",
+        "orange",
+        "lemon",
+        "lime",
+        "avocado"
+    ],
+
+    "meat": [
+        "beef",
+        "chicken",
+        "pork",
+        "turkey",
+        "lamb",
+        "ham",
+        "bacon"
+    ],
+
+    "fish": [
+        "fish",
+        "salmon",
+        "tuna",
+        "shrimp",
+        "prawn"
+    ],
+
+    "dairy": [
+        "milk",
+        "cheese",
+        "cream",
+        "butter",
+        "egg",
+        "eggs",
+        "yogurt"
+    ],
+
+    "grains": [
+        "rice",
+        "flour",
+        "pasta",
+        "bread"
+    ],
+
+    "spices": [
+        "salt",
+        "peppercorn",
+        "paprika",
+        "oregano",
+        "thyme",
+        "cumin",
+        "cinnamon"
+    ]
+}

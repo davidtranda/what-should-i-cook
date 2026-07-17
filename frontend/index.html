@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>What Should I Cook?</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- ==========================
+            APPLICATION
+    =========================== -->
+
+    <div class="container">
+
+        <!-- Header -->
+
+        <header>
+
+            <h1>What Should I Cook?</h1>
+
+            <p>
+                Stop wondering. Start cooking.
+            </p>
+
+        </header>
+
+        <!-- Inventory -->
+
+        <main>
+
+            <section class="inventory-section">
+
+                <h2>Your Kitchen</h2>
+
+                <div class="search-box">
+
+                    <i data-lucide="search"></i>
+
+                    <input
+                        id="inventory-search"
+                        type="text"
+                        placeholder="Search your kitchen..."
+                    >
+
+                </div>
+
+                <div
+                id="ingredient-list"
+                class="ingredient-list"
+                >
+                </div>
+
+                <button
+                        id="toggle-inventory-btn"
+                        class="toggle-inventory hidden"
+                    >
+
+                        <span id="toggle-text">
+                            Show all
+                        </span>
+
+                        <i
+                            id="toggle-icon"
+                            data-lucide="chevron-down"
+                        ></i>
+
+                    </button>
+                    
+                <div class="inventory-footer">
+
+                    <button
+                        id="open-modal-btn"
+                        class="add-button"
+                    >
+
+                        <i data-lucide="plus"></i>
+
+                        <span>Add ingredient</span>
+
+                    </button>
+
+                </div>
+
+            </section>
+
+
+            <button
+                id="cook-button"
+                class="cook-button"
+            >
+
+                <i data-lucide="chef-hat"></i>
+
+                <span>Find my dinner</span>
+
+            </button>
+
+        </main>
+
+    </div>
+
+    <!-- ==========================
+            MODAL
+    =========================== -->
+
+    <div
+        id="modal-overlay"
+        class="modal-overlay hidden"
+    >
+
+        <div class="modal">
+
+            <div class="modal-header">
+
+                <h2>Add ingredient</h2>
+
+                <button
+                    id="close-modal-btn"
+                    class="icon-button"
+                >
+
+                    <i data-lucide="x"></i>
+
+                </button>
+
+            </div>
+
+            <div class="search-box">
+
+                <i data-lucide="search"></i>
+
+                <input
+                    id="ingredient-search"
+                    type="text"
+                    placeholder="Search ingredients..."
+                >
+
+            </div>
+
+            <div
+                id="search-results"
+                class="search-results"
+            >
+
+                <!-- Search results appear here -->
+
+            </div>
+
+            <input
+                id="quantity-input"
+                type="number"
+                placeholder="Quantity"
+            >
+
+            <div
+            id="unit-chips"
+            class="unit-selector"
+            >
+
+            <!-- JavaScript will generate the chips -->
+
+            </div>
+
+            <div class="modal-buttons">
+
+
+                <button
+                    id="save-btn"
+                    class="add-button"
+                >
+
+                    Add
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- ==========================
+            SCRIPTS
+    =========================== -->
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <script>
+        lucide.createIcons();
+    </script>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

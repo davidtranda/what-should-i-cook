@@ -75,3 +75,6 @@ Version Control:
 - Git + GitHub
 
 Made with ❤️ as a summer software engineering project.
+## Development Journal
+
+This project is actively being developed during Summer 2026.

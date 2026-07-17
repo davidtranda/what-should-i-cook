@@ -1,0 +1,45 @@
+{
+    "pcs": [
+        "egg",
+        "eggs"
+    ],
+
+    "ml_l": [
+        "milk",
+        "oil",
+        "vinegar",
+        "water",
+        "wine",
+        "juice",
+        "soy sauce"
+    ],
+
+    "g_kg": [
+        "beef",
+        "chicken",
+        "pork",
+        "lamb",
+        "fish",
+        "salmon",
+        "shrimp",
+        "rice",
+        "flour",
+        "butter",
+        "cheese",
+        "bacon",
+        "ham"
+    ],
+
+    "pcs_g_kg": [
+        "tomato",
+        "potato",
+        "apple",
+        "banana",
+        "orange",
+        "carrot",
+        "onion",
+        "garlic",
+        "avocado",
+        "aubergine"
+    ]
+}
