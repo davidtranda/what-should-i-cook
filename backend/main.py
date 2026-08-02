@@ -33,3 +33,31 @@ def get_ingredients():
 def search_ingredients(q: str = Query("")):
 
     return ingredient_service.search(q)
+
+from services.recipe_service import RecipeService
+recipe_service = RecipeService()
+
+@app.get("/recipes")
+def get_recipes():
+
+    return recipe_service.get_all()
+
+@app.get("/recipes/{recipe_id}")
+def get_recipe(recipe_id: int):
+
+    return recipe_service.get_by_id(recipe_id)
+
+from pydantic import BaseModel
+
+class RecommendationRequest(BaseModel):
+    inventory: list[str]
+
+
+@app.post("/recipes/recommend")
+def recommend_recipes(request: RecommendationRequest):
+
+    recommendations = recipe_service.recommend(
+        request.inventory
+    )
+
+    return recommendations

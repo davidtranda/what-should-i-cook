@@ -1,70 +1,41 @@
 {
-    "vegetables": [
-        "tomato",
-        "potato",
-        "onion",
-        "garlic",
-        "pepper",
-        "broccoli",
-        "lettuce",
-        "spinach",
-        "carrot",
-        "cucumber",
-        "aubergine",
-        "asparagus"
-    ],
+    "vegetables": {
+        "allowed_units": ["pcs", "g", "kg"]
+    },
 
-    "fruit": [
-        "apple",
-        "banana",
-        "orange",
-        "lemon",
-        "lime",
-        "avocado"
-    ],
+    "fruit": {
+        "allowed_units": ["pcs", "g", "kg"]
+    },
 
-    "meat": [
-        "beef",
-        "chicken",
-        "pork",
-        "turkey",
-        "lamb",
-        "ham",
-        "bacon"
-    ],
+    "meat": {
+        "allowed_units": ["g", "kg"]
+    },
 
-    "fish": [
-        "fish",
-        "salmon",
-        "tuna",
-        "shrimp",
-        "prawn"
-    ],
+    "fish": {
+        "allowed_units": ["g", "kg"]
+    },
 
-    "dairy": [
-        "milk",
-        "cheese",
-        "cream",
-        "butter",
-        "egg",
-        "eggs",
-        "yogurt"
-    ],
+    "dairy": {
+        "allowed_units": ["g", "kg", "ml", "L", "slice"]
+    },
 
-    "grains": [
-        "rice",
-        "flour",
-        "pasta",
-        "bread"
-    ],
+    "grains": {
+        "allowed_units": ["g", "kg"]
+    },
 
-    "spices": [
-        "salt",
-        "peppercorn",
-        "paprika",
-        "oregano",
-        "thyme",
-        "cumin",
-        "cinnamon"
-    ]
+    "spices": {
+        "allowed_units": ["g", "pinch", "tsp"]
+    },
+
+    "oils": {
+        "allowed_units": ["ml", "L", "tbsp"]
+    },
+
+    "sauces": {
+        "allowed_units": ["ml", "L", "tbsp"]
+    },
+
+    "other": {
+        "allowed_units": ["pcs"]
+    }
 }

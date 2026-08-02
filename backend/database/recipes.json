@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Omelette",
+        "slug": "classic_omelette",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 3,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "butter",
+                "quantity": 15,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Scrambled Eggs",
+        "slug": "scrambled_eggs",
+        "image": "",
+        "time": 8,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 4,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "butter",
+                "quantity": 15,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Grilled Chicken Salad",
+        "slug": "grilled_chicken_salad",
+        "image": "",
+        "time": 20,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "cucumber",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "lemon_juice",
+                "quantity": 1,
+                "unit": "tbsp",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Grilled Cheese Sandwich",
+        "slug": "grilled_cheese_sandwich",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 2,
+                "unit": "slice",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Spaghetti Aglio e Olio",
+        "slug": "spaghetti_aglio_e_olio",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "garlic",
+                "quantity": 3,
+                "unit": "pcs",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 30,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "parsley",
+                "quantity": 10,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Spaghetti Carbonara",
+        "slug": "spaghetti_carbonara",
+        "image": "",
+        "time": 25,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 50,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "bacon",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "pinch",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Tomato Pasta",
+        "slug": "tomato_pasta",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 3,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 20,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Greek Salad",
+        "slug": "greek_salad",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "cucumber",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "red_onion",
+                "quantity": 0.5,
+                "unit": "pcs",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "cubed_feta_cheese",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 20,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Ham Omelette",
+        "slug": "ham_omelette",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "ham",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Cheese Omelette",
+        "slug": "cheese_omelette",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Vegetable Omelette",
+        "slug": "vegetable_omelette",
+        "image": "",
+        "time": 12,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "onion",
+                "quantity": 40,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "French Toast",
+        "slug": "french_toast",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "milk",
+                "quantity": 60,
+                "unit": "ml",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "cinnamon",
+                "quantity": 2,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Egg Sandwich",
+        "slug": "egg_sandwich",
+        "image": "",
+        "time": 8,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "mayonnaise",
+                "quantity": 20,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "butter",
+                "quantity": 5,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Avocado Toast",
+        "slug": "avocado_toast",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "avocado",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 10,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "salt",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Breakfast Burrito",
+        "slug": "breakfast_burrito",
+        "image": "",
+        "time": 20,
+        "difficulty": "medium",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "tortilla",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "bacon",
+                "quantity": 50,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 40,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "onion",
+                "quantity": 30,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Pasta Alfredo",
+        "slug": "pasta_alfredo",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "heavy_cream",
+                "quantity": 150,
+                "unit": "ml",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 20,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 2,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Pesto Pasta",
+        "slug": "pesto_pasta",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "pesto",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 40,
+                "unit": "g",
+                "required": false,
+                "importance": 4
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Spaghetti Bolognese",
+        "slug": "spaghetti_bolognese",
+        "image": "",
+        "time": 40,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "ground_beef",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "onion",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Mac and Cheese",
+        "slug": "mac_and_cheese",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "macaroni",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "milk",
+                "quantity": 150,
+                "unit": "ml",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 20,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Creamy Mushroom Pasta",
+        "slug": "creamy_mushroom_pasta",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "mushroom",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "heavy_cream",
+                "quantity": 150,
+                "unit": "ml",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 40,
+                "unit": "g",
+                "required": false,
+                "importance": 4
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Chicken Alfredo",
+        "slug": "chicken_alfredo",
+        "image": "",
+        "time": 30,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "spaghetti",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "heavy_cream",
+                "quantity": 150,
+                "unit": "ml",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 20,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Penne Arrabbiata",
+        "slug": "penne_arrabbiata",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "penne_pasta",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "chili_powder",
+                "quantity": 2,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Caesar Salad",
+        "slug": "caesar_salad",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "lettuce",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 180,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 30,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "croutons",
+                "quantity": 40,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Tuna Salad",
+        "slug": "tuna_salad",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "tuna",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "cucumber",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Egg Salad",
+        "slug": "egg_salad",
+        "image": "",
+        "time": 12,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 4,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "mayonnaise",
+                "quantity": 40,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 100,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Caprese Salad",
+        "slug": "caprese_salad",
+        "image": "",
+        "time": 8,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "tomato",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "mozzarella",
+                "quantity": 125,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "basil",
+                "quantity": 10,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Avocado Salad",
+        "slug": "avocado_salad",
+        "image": "",
+        "time": 10,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "avocado",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cucumber",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Pasta Salad",
+        "slug": "pasta_salad",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "penne_pasta",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cucumber",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "cubed_feta_cheese",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Chicken Stir Fry",
+        "slug": "chicken_stir_fry",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "broccoli",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "carrot",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "soy_sauce",
+                "quantity": 30,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Lemon Garlic Chicken",
+        "slug": "lemon_garlic_chicken",
+        "image": "",
+        "time": 30,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "lemon",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 1,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Honey Garlic Chicken",
+        "slug": "honey_garlic_chicken",
+        "image": "",
+        "time": 30,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "honey",
+                "quantity": 30,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "soy_sauce",
+                "quantity": 20,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Chicken Fried Rice",
+        "slug": "chicken_fried_rice",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "rice",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "egg",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "soy_sauce",
+                "quantity": 25,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "onion",
+                "quantity": 60,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Chicken Wrap",
+        "slug": "chicken_wrap",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "tortilla",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 50,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "tomato",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "mayonnaise",
+                "quantity": 20,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Chicken Quesadilla",
+        "slug": "chicken_quesadilla",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "tortilla",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 180,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Chicken Curry",
+        "slug": "chicken_curry",
+        "image": "",
+        "time": 35,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "onion",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "curry_powder",
+                "quantity": 10,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "rice",
+                "quantity": 200,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Chicken Fajitas",
+        "slug": "chicken_fajitas",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "tortilla",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "pepper",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "onion",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "chili_powder",
+                "quantity": 5,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Chicken Parmesan",
+        "slug": "chicken_parmesan",
+        "image": "",
+        "time": 35,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "parmesan",
+                "quantity": 60,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "mozzarella",
+                "quantity": 80,
+                "unit": "g",
+                "required": false,
+                "importance": 4
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Garlic Butter Chicken",
+        "slug": "garlic_butter_chicken",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "chicken_breast",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "butter",
+                "quantity": 25,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "black_pepper",
+                "quantity": 2,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            },
+            {
+                "slug": "parsley",
+                "quantity": 5,
+                "unit": "g",
+                "required": false,
+                "importance": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Chicken Rice Bowl",
+        "slug": "chicken_rice_bowl",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "rice",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "broccoli",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "soy_sauce",
+                "quantity": 20,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Beef Burger",
+        "slug": "beef_burger",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "ground_beef",
+                "quantity": 300,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "burger_buns",
+                "quantity": 2,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 2,
+                "unit": "slice",
+                "required": false,
+                "importance": 4
+            },
+            {
+                "slug": "tomato",
+                "quantity": 80,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 40,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Beef Tacos",
+        "slug": "beef_tacos",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "ground_beef",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tortilla",
+                "quantity": 4,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 60,
+                "unit": "g",
+                "required": false,
+                "importance": 4
+            },
+            {
+                "slug": "tomato",
+                "quantity": 80,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 50,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Meatballs",
+        "slug": "meatballs",
+        "image": "",
+        "time": 35,
+        "difficulty": "medium",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "ground_beef",
+                "quantity": 300,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "egg",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "breadcrumbs",
+                "quantity": 50,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Beef Stir Fry",
+        "slug": "beef_stir_fry",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "beef",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "broccoli",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "soy_sauce",
+                "quantity": 30,
+                "unit": "ml",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Chili Con Carne",
+        "slug": "chili_con_carne",
+        "image": "",
+        "time": 45,
+        "difficulty": "medium",
+        "servings": 4,
+        "ingredients": [
+            {
+                "slug": "ground_beef",
+                "quantity": 300,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "kidney_beans",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "onion",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "chili_powder",
+                "quantity": 5,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Garlic Butter Salmon",
+        "slug": "garlic_butter_salmon",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "salmon",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "butter",
+                "quantity": 20,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Baked Salmon",
+        "slug": "baked_salmon",
+        "image": "",
+        "time": 30,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "salmon",
+                "quantity": 250,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "lemon",
+                "quantity": 1,
+                "unit": "pcs",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "olive_oil",
+                "quantity": 15,
+                "unit": "ml",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Tuna Pasta",
+        "slug": "tuna_pasta",
+        "image": "",
+        "time": 20,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "penne_pasta",
+                "quantity": 200,
+                "unit": "g",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tuna",
+                "quantity": 150,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "tomato",
+                "quantity": 120,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Club Sandwich",
+        "slug": "club_sandwich",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 3,
+                "unit": "slice",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "chicken_breast",
+                "quantity": 100,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "lettuce",
+                "quantity": 30,
+                "unit": "g",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "tomato",
+                "quantity": 40,
+                "unit": "g",
+                "required": false,
+                "importance": 2
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Tuna Melt",
+        "slug": "tuna_melt",
+        "image": "",
+        "time": 15,
+        "difficulty": "easy",
+        "servings": 1,
+        "ingredients": [
+            {
+                "slug": "bread",
+                "quantity": 2,
+                "unit": "slice",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tuna",
+                "quantity": 120,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "cheddar_cheese",
+                "quantity": 2,
+                "unit": "slice",
+                "required": true,
+                "importance": 6
+            },
+            {
+                "slug": "butter",
+                "quantity": 10,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Shakshuka",
+        "slug": "shakshuka",
+        "image": "",
+        "time": 25,
+        "difficulty": "easy",
+        "servings": 2,
+        "ingredients": [
+            {
+                "slug": "egg",
+                "quantity": 4,
+                "unit": "pcs",
+                "required": true,
+                "importance": 10
+            },
+            {
+                "slug": "tomato",
+                "quantity": 300,
+                "unit": "g",
+                "required": true,
+                "importance": 8
+            },
+            {
+                "slug": "onion",
+                "quantity": 80,
+                "unit": "g",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "garlic",
+                "quantity": 2,
+                "unit": "cloves",
+                "required": true,
+                "importance": 2
+            },
+            {
+                "slug": "chili_powder",
+                "quantity": 3,
+                "unit": "g",
+                "required": false,
+                "importance": 3
+            }
+        ]
+    }
+]
